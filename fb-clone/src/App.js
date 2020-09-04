@@ -11,7 +11,6 @@ function App() {
 
       <div className="app__body">
         <Sidebar />
-        {/* sidebar */}
         {/* feed */}
         {/* widget */}
       </div>
