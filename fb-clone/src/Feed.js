@@ -10,7 +10,13 @@ function Feed() {
             <StoryReel />
             <MessageSender />
             
-            <Post />
+            <Post 
+              profilePic='https://travel.home.sndimg.com/content/dam/images/travel/fullset/2012/07/20/e0/rio-beaches-copacabana.rend.hgtvcom.616.462.suffix/1491582618084.jpeg'
+              message="Amazing day!"
+              timestamp='this is a timestamp'
+              username='cody'
+              image='https://travel.home.sndimg.com/content/dam/images/travel/fullset/2012/07/20/e0/rio-beaches-copacabana.rend.hgtvcom.616.462.suffix/1491582618084.jpeg'
+            />
             <Post />
             <Post />
 
